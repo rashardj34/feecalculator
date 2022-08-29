@@ -56,7 +56,7 @@ return (
     <br></br>
      <button onClick={findRequest}>Calculate</button> 
     
-    <button>Reset</button>
+    
    </div>
  </div>
 </div>
