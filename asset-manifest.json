@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/feecalculator/static/css/main.451c5736.css",
+    "main.js": "/feecalculator/static/js/main.51b3b512.js",
+    "static/js/787.758ef28b.chunk.js": "/feecalculator/static/js/787.758ef28b.chunk.js",
+    "index.html": "/feecalculator/index.html",
+    "main.451c5736.css.map": "/feecalculator/static/css/main.451c5736.css.map",
+    "main.51b3b512.js.map": "/feecalculator/static/js/main.51b3b512.js.map",
+    "787.758ef28b.chunk.js.map": "/feecalculator/static/js/787.758ef28b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.451c5736.css",
+    "static/js/main.51b3b512.js"
+  ]
+}
